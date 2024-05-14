@@ -1,4 +1,4 @@
-﻿# Análise Preditiva com Modelos de Aprendizagem de Máquina de Regressão nos Dados do Monitoramento Epidemiológico da Dengue no Distrito Federal (2019-2023)
+﻿# Análise Preditiva com Modelos de Aprendizagem de Máquina de Regressão nos Dados do Monitoramento Epidemiológico da Dengue no Distrito Federal (2019-2023) **(Em construção)**
 
 
 Iniciamos um novo projeto com o objetivo de analisar os casos de dengue no Distrito Federal ao longo dos anos de 2019 a 2023, organizados por regiões administrativas. Para garantir a confiabilidade dos dados, buscamos fontes oficiais, encontrando os boletins epidemiológicos no site do governo.
@@ -11,7 +11,7 @@ Uma parte crucial do projeto foi a visualização dos resultados em um mapa coro
 
 Com todos os passos concluídos, pudemos analisar os dados de forma mais abrangente e identificar padrões e tendências nos casos de dengue ao longo dos anos no Distrito Federal.
 
-# Regiões adminitrativas do distrito federal
+# Regiões adminitrativas do Distrito Federal
 
 | Região      | Localidades                                         |
 |-------------|-----------------------------------------------------|
