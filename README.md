@@ -34,6 +34,7 @@ Com todos os passos concluídos, pudemos analisar os dados de forma mais abrange
 # 5
 Quinto passo, para o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC), escolhi utilizar uma Rede Neural Artificial (RNA) como modelo de regressão para prever os casos de dengue com base em diversas variáveis, como características socioeconômicas e demográficas, até o momento. O motivo de esolher o RNA foi porque As Redes Neurais Artificiais são modelos poderosos de aprendizado de máquina capazes de capturar relações complexas entre variáveis de entrada e saída. Ao contrário de modelos de regressão tradicionais, as RNAs podem aprender padrões intrincados nos dados, tornando-as ideais para lidar com problemas complexos e não lineares, como a previsão de casos de dengue, que podem ser influenciados por uma variedade de fatores inter-relacionados.
 
+# Links utilizados para pesquisa e extração de dados
 Link dos dados : https://www.saude.df.gov.br/informes-dengue-chikungunya-zika-febre-amarela
 
 Link do arquivo (.shp): https://portaldemapas.ibge.gov.br/portal.php#mapa201483
