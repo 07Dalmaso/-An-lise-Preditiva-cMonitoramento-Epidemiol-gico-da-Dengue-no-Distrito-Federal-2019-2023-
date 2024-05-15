@@ -40,3 +40,13 @@ Link dos dados : https://www.saude.df.gov.br/informes-dengue-chikungunya-zika-fe
 Link do arquivo (.shp): https://portaldemapas.ibge.gov.br/portal.php#mapa201483
 
 Link do site que utilizei para converter o .shp para json: https://mapshaper.org/
+
+# Pessoas envolvidas 
+
+Este projeto foi possível graças ao trabalho e dedicação das seguintes pessoas:
+
+- [Lucas Santos Dalmaso](https://github.com/07Dalmaso) - Desenvolvedor/Análisa do dados
+- [Sabrina Mendes Braga](https://github.com/contribuidor2) - Desenvolvedor/Análisa do dados
+- [Nome do Contribuidor 3](https://github.com/contribuidor3) - Função/Contribuição
+
+Por favor, sinta-se à vontade para nos contatar ou contribuir com este projeto.
