@@ -51,7 +51,7 @@ Link do site que utilizei para converter o .shp para json: https://mapshaper.org
 </div>
 <br>
 
-# Pessoas envolvidas 
+## ✒️ Pessoas envolvidas 
 
 Este projeto foi possível graças ao trabalho e dedicação das seguintes pessoas:
 
