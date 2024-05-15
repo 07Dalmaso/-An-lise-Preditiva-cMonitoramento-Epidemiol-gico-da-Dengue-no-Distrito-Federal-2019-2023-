@@ -12,7 +12,7 @@ O primeiro desafio foi coletar e organizar os dados dispersos nos boletins epide
 # 3
 Com os dados em mãos, o próximo passo foi determinar a melhor forma de tratá-los e analisá-los. Optamos por utilizar a linguagem de programação Python devido à sua versatilidade e às inúmeras bibliotecas disponíveis para análise de dados.
 
-## Resultado da primeira análise
+##  📈 Resultado da primeira análise
 
 ![alt text](imgs/image.png)
 
